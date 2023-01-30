@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hightlight/static/css/main.ccd07e36.css",
+    "main.js": "/hightlight/static/js/main.737aad81.js",
+    "static/js/787.1175097f.chunk.js": "/hightlight/static/js/787.1175097f.chunk.js",
+    "index.html": "/hightlight/index.html",
+    "main.ccd07e36.css.map": "/hightlight/static/css/main.ccd07e36.css.map",
+    "main.737aad81.js.map": "/hightlight/static/js/main.737aad81.js.map",
+    "787.1175097f.chunk.js.map": "/hightlight/static/js/787.1175097f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccd07e36.css",
+    "static/js/main.737aad81.js"
+  ]
+}
